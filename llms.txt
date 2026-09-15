@@ -1,0 +1,52 @@
+# pen.dev Documentation
+
+> Machine-readable mirror of the official pen.dev documentation for LLM agents and AI coding assistants.
+
+## Page Index
+
+### Getting Started
+
+| Page | URL |
+|------|-----|
+| Installation | https://docs.pen.dev/getting-started/installation |
+| Authentication | https://docs.pen.dev/getting-started/authentication |
+| AI Integration | https://docs.pen.dev/getting-started/ai-integration |
+| Create your first design | https://docs.pen.dev/getting-started/create-your-first-design |
+
+### Core Concepts
+
+| Page | URL |
+|------|-----|
+| .pen Files | https://docs.pen.dev/core-concepts/pen-files |
+| Design as Code | https://docs.pen.dev/core-concepts/design-as-code |
+| pen.dev Interface | https://docs.pen.dev/core-concepts/pencil-interface |
+| Drawing and editing | https://docs.pen.dev/core-concepts/drawing-and-editing |
+| AI agents and Skills | https://docs.pen.dev/core-concepts/ai-agents |
+| Variables | https://docs.pen.dev/core-concepts/variables |
+| Components | https://docs.pen.dev/core-concepts/components |
+| Slots | https://docs.pen.dev/core-concepts/slots |
+| Code on Canvas | https://docs.pen.dev/core-concepts/code-on-canvas |
+| Design Libraries | https://docs.pen.dev/core-concepts/design-libraries |
+| Build a small design system | https://docs.pen.dev/core-concepts/build-a-design-system |
+| Import and Export | https://docs.pen.dev/core-concepts/import-and-export |
+| Slides and presentations | https://docs.pen.dev/core-concepts/presentations |
+| Keyboard Shortcuts | https://docs.pen.dev/core-concepts/keyboard-shortcuts |
+
+### Design and Code
+
+| Page | URL |
+|------|-----|
+| Design ↔ Code | https://docs.pen.dev/design-and-code/design-to-code |
+
+### Troubleshooting
+
+| Page | URL |
+|------|-----|
+| Troubleshooting | https://docs.pen.dev/troubleshooting |
+
+### For Developers
+
+| Page | URL |
+|------|-----|
+| The .pen Format | https://docs.pen.dev/for-developers/the-pen-format |
+| pen.dev CLI | https://docs.pen.dev/for-developers/pen-cli |
